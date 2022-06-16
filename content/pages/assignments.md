@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides guidelines for weekly response papers and the final
+  paper assigned for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
