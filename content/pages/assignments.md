@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides guidelines for weekly response papers and the final
+  paper assigned for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 031616d1-27f0-53aa-ab1a-5963d3efbb07
 ---

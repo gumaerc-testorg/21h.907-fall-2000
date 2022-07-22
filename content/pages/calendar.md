@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information on the two required texts for the course,
+  and the schedule of course topics and assignment due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: cfff44ff-e06a-ac65-3410-8b54829dc3e0
 ---
